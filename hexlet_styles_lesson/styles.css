@@ -1,0 +1,59 @@
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding: 100px 0;
+  
+    font-family: serif;
+  
+    background-color: #eee;
+  }
+  
+  /* BEGIN (write your solution here) */
+  section {
+      font-weight: normal;
+      text-align: center;
+      color: #646464;
+  }
+  
+  h1 {
+      font-size: 70px;
+      font-weight: bold;
+      color: #646464;
+      text-align: center;
+  }
+  
+  h2 {
+      font-size: 40px;
+      font-weight: normal;
+      text-align: center;
+      color: #646464;
+  }
+  
+  h3 {
+      font-size: 20px;
+      font-weight: normal;
+      text-align: center;
+      color: #646464;
+  }
+  
+  h4 {
+      font-size: 18px;
+      font-weight: normal;
+      text-align: center;
+      color: #646464;
+  }
+  
+  p {
+      text-align: justify;
+      font-size: 16px;
+      color: #333;
+  }
+  
+  /* hr {
+      border-bottom: 3px solid #e3e3e3;
+      text-align: center;
+      font-weight: normal;
+      color: #646464;
+  } */
+  /* END */
+  
